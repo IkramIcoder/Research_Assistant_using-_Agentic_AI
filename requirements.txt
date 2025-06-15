@@ -1,0 +1,16 @@
+openai>=1.30.5
+langchain>=0.0.199
+langchain-community>=0.0.34
+arxiv>=2.1.0
+python-dotenv>=1.0.1
+unstructured>=0.10.30
+tiktoken>=0.6.0
+faiss-cpu>=1.7.4
+duckduckgo-search>=4.4.0
+fastapi>=0.111.0
+uvicorn>=0.29.0
+pydantic>=2.7.1
+pytest>=8.2.2
+requests>=2.32.3
+pypdf2
+nltk>=3.8.1
